@@ -16,9 +16,9 @@
 * *Database Management Systems*
 
 **🌟 What I'm Looking For 🌟**
-* *Data Science*
 * *Software Engineering*
 * *Technology Development*
+* *Web Development*
 
 **CONNECT WITH ME 👩🏾‍💻:**
 https://www.linkedin.com/in/elizabeth-eliot-a3b3581a2/
